@@ -7,11 +7,11 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = "+201151773932"
+global.botnumber = "218930304217"
 global.confirmCode = ""
 
 global.owner = [
-  ['201151094460', '👑 Nano - Creador 👑', true],
+  ['212658594530', '👑 Nano - Creador 👑', true],
   ['201151773932'],
   ['201559815566'],
   ['201557561907'],
@@ -19,8 +19,8 @@ global.owner = [
   ['201229419165'],
 ];
 
-global.suittag = ['201151773932'];
-global.prems = ['201151773932'];
+global.suittag = ['212658594530'];
+global.prems = ['21265859453p'];
 
 global.packname = 'Sticker';
 global.author = 'The Nano - Bot';
